@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asd</string>
+    <string name="titleText">Mondro Money Converter</string>
+    <string name="fromCurr">From</string>
+    <string name="toCurr">To</string>
+    <string name="buttonText">Calculate</string>
+    <string name="emptyString">" "</string>
+    <string name="currAmount">Amount</string>
+
+</resources>
