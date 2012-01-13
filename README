@@ -4,4 +4,4 @@ Retrieves a file from the internet, hardcoded to http://sps.rr-research.no/valut
 
 Stores it to a local file, in instances where you don't have internet.
 
-Disclaimer: I do not have an android-phone and has not been able to actually test this project as much as i should've. I hope it works but I cannot be certain. that it does
+Disclaimer: I do not have an android-phone and has not been able to actually test this project as much as i should've. I hope it works but I cannot be certain that it does
